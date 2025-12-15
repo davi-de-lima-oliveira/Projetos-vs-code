@@ -1,6 +1,7 @@
-idade = int( input("informe a sua idade:"))
+nome = "Programador Python" 
+idade = 17
+massa_corporal = 75 
 
-if idade >= 18: 
-     print("Permitido! Entre!")
-else:
-     print("Não permitido! Vá embora!") 
+print(nome)
+print(idade)
+print(massa_corporal)
