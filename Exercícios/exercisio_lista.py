@@ -1,0 +1,11 @@
+lista_numeros = [1,2,3,4,5,6,7,8,9,10]
+print(lista_numeros[0]) 
+print(lista_numeros[1])
+print(lista_numeros[2])
+print(lista_numeros[3])
+print(lista_numeros[4])
+print(lista_numeros[5])
+print(lista_numeros[6])
+print(lista_numeros[7])
+print(lista_numeros[8])
+print(lista_numeros[9])
